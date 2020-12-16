@@ -17,7 +17,7 @@
 
 <br><br>
 <h3>🛠 Tech Stack</h3>
-<p align="center">
+<p>
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
