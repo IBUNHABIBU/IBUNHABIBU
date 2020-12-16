@@ -1,9 +1,9 @@
 ### Hi there I'm Salum Habibu👋
 
-## I'm Husband , Father, Full-Stack Software developer and Electrical Engineer
-- 🔭 I’m currently working on ... React js
-- 🌱 I’m glad to relocate or work remotely
-- 👯 I’m looking to collaborate on any full stack software development project
+## I'm Husband, Father, a Remote Full-Stack Software developer and Electrical Engineer
+- 🔭 I’m currently working on React.
+- 🌱 Available for hire! I’m glad to relocate or work remotely.
+- 👯 I’m looking to collaborate on any Full-Stack Software development project.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -35,8 +35,8 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="Jest" alt="Jest" height=40 src="https://jestjs.io/img/jest-card-run.svg">
     <img title="RSpec" alt="RSpec" height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
-    <img title="RSpec" alt="Webpack" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
-    <img title="RSpec" alt="Phaser" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png">
+    <img title="Webpack" alt="Webpack" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
+    <img title="Phaser" alt="Phaser" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     
   </span>
