@@ -40,5 +40,18 @@
   </span>
 </p>
 
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#28](https://github.com/jamesgeorge007/scaffold-static/issues/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+2. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/scaffold-static/pull/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 💪 Opened PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+5. 🎉 Merged PR [#1](https://github.com/jamesgeorge007/cli-prompts-test/pull/1) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+<!--END_SECTION:activity-->
+
+---
+
+<!--
 ​![profile](https://komarev.com/ghpvc/?username=IBUNHABIBU)
