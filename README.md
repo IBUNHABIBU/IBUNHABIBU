@@ -44,11 +44,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/jamesgeorge007/scaffold-static/issues/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-2. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/scaffold-static/pull/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 💪 Opened PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 🎉 Merged PR [#1](https://github.com/jamesgeorge007/cli-prompts-test/pull/1) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+1. 🎉 Merged PR [#2](https://github.com/IBUNHABIBU/tic-tac-toe-game/pull/2) in [IBUNHABIBU/tic-tac-toe-game](https://github.com/IBUNHABIBU/tic-tac-toe-game)
+2. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/tic-tac-toe-game/pull/2) in [IBUNHABIBU/tic-tac-toe-game](https://github.com/IBUNHABIBU/tic-tac-toe-game)
+3. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/jest-practice/pull/1) in [IBUNHABIBU/jest-practice](https://github.com/IBUNHABIBU/jest-practice)
+4. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/jest-practice/pull/1) in [IBUNHABIBU/jest-practice](https://github.com/IBUNHABIBU/jest-practice)
+5. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/todo-list/pull/1) in [IBUNHABIBU/todo-list](https://github.com/IBUNHABIBU/todo-list)
 <!--END_SECTION:activity-->
 
 ---
