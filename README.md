@@ -12,7 +12,7 @@
 
 
 <div>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=IBUNHABIBU&count_private=true&show_icons=true&theme=great-gatsby' alt='Murilo's github stats'>
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=IBUNHABIBU&count_private=true&show_icons=true&theme=great-gatsby' alt='Ibunhabibu's github stats'>
 </div>
 
 <br><br>
