@@ -40,5 +40,5 @@
   </span>
 </p>
 
-<!--START_SECTION:Recent activity-->
+<!--START_SECTION:activity-->
 ​![profile](https://komarev.com/ghpvc/?username=IBUNHABIBU)
