@@ -1,6 +1,6 @@
 ### Hi there I'm Salum Habibu👋
 
-## I'm Husband, Father, a Remote Full-Stack Software developer and Electrical Engineer
+## I'm a husband, a father, a remote Full-Stack Software developer and Electrical Engineer
 - 🔭 I’m currently working on React.
 - 🌱 Available for hire! I’m glad to relocate or work remotely.
 - 👯 I’m looking to collaborate on any Full-Stack Software development project.
@@ -39,7 +39,7 @@
     <img title="NPM" alt="NPM" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png">
     <img title="Phaser" alt="Phaser" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-    
+
   </span>
 </p>
 
