@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+Full-stack software developer specialized in mostly HTML & CSS, Sass, Ruby, Ruby on Rails and JavaScript with more than 1yr of coding experience.
