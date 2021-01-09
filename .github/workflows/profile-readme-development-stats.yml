@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # Runs every hour
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
@@ -16,4 +16,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
-Full-stack software developer specialized in mostly HTML & CSS, Sass, Ruby, Ruby on Rails and JavaScript with more than 1yr of coding experience.
