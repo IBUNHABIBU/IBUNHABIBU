@@ -57,6 +57,8 @@
 ### Wakatime
 
 <!--START_SECTION:waka-->
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-653-blue)
 <!--END_SECTION:waka-->
 
 ​![profile](https://komarev.com/ghpvc/?username=IBUNHABIBU)
