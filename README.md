@@ -54,6 +54,7 @@
 5. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/todo-list/pull/1) in [IBUNHABIBU/todo-list](https://github.com/IBUNHABIBU/todo-list)
 <!--END_SECTION:activity-->
 
+### Wakatime
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
