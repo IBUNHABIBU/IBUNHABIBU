@@ -47,7 +47,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/platform-game/pull/1) in [IBUNHABIBU/platform-game](https://github.com/IBUNHABIBU/platform-game)
+1. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/platform-game/issues/1) in [IBUNHABIBU/platform-game](https://github.com/IBUNHABIBU/platform-game)
 2. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/tic-tac-toe-game/pull/2) in [IBUNHABIBU/tic-tac-toe-game](https://github.com/IBUNHABIBU/tic-tac-toe-game)
 3. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/jest-practice/pull/1) in [IBUNHABIBU/jest-practice](https://github.com/IBUNHABIBU/jest-practice)
 4. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/jest-practice/pull/1) in [IBUNHABIBU/jest-practice](https://github.com/IBUNHABIBU/jest-practice)
