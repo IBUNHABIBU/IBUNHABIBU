@@ -47,10 +47,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/PRACTICE-ZONE/restaurant-page/pull/2) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
-2. 🎉 Merged PR [#1](https://github.com/PRACTICE-ZONE/restaurant-page/pull/1) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
-3. 💪 Opened PR [#1](https://github.com/PRACTICE-ZONE/restaurant-page/pull/1) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
-4. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/platform-game/issues/1) in [IBUNHABIBU/platform-game](https://github.com/IBUNHABIBU/platform-game)
+1. 🎉 Merged PR [#2](https://github.com/PRACTICE-ZONE/restaurant-page/pull/2) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
+2. 💪 Opened PR [#2](https://github.com/PRACTICE-ZONE/restaurant-page/pull/2) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
+3. 🎉 Merged PR [#1](https://github.com/PRACTICE-ZONE/restaurant-page/pull/1) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
+4. 💪 Opened PR [#1](https://github.com/PRACTICE-ZONE/restaurant-page/pull/1) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
 5. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/todo-list/pull/1) in [IBUNHABIBU/todo-list](https://github.com/IBUNHABIBU/todo-list)
 <!--END_SECTION:activity-->
 
