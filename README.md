@@ -47,7 +47,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/personalPortfolio/pull/1) in [IBUNHABIBU/personalPortfolio](https://github.com/IBUNHABIBU/personalPortfolio)
+1. 💪 Opened PR [#1](https://github.com/PRACTICE-ZONE/restaurant-page/pull/1) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
 2. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/personalPortfolio/pull/1) in [IBUNHABIBU/personalPortfolio](https://github.com/IBUNHABIBU/personalPortfolio)
 3. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/platform-game/issues/1) in [IBUNHABIBU/platform-game](https://github.com/IBUNHABIBU/platform-game)
 4. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/platform-game/issues/1) in [IBUNHABIBU/platform-game](https://github.com/IBUNHABIBU/platform-game)
