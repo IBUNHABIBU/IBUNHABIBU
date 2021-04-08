@@ -16,7 +16,7 @@
 </div>
 
 <br><br>
-<h3>🛠 Tech Stack</h3>
+<h3> :computer: Tech Stack</h3>
 <p>
   <span class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
@@ -40,6 +40,17 @@
     <img title="Phaser" alt="Phaser" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phaser/phaser.png">
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 
+  </span>
+</p>
+<h3>:books: learning</h3>
+<p>
+  <span class="d-flex">
+  </span>
+</p>
+
+<h3>🛠 Tech Stack</h3>
+<p>
+  <span class="d-flex">
   </span>
 </p>
 
