@@ -58,8 +58,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/react-calculator/pull/1) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
-2. 💪 Opened PR [#3](https://github.com/PRACTICE-ZONE/restaurant-page/pull/3) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
+1. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/react-calculator/pull/2) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
+2. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/react-calculator/pull/1) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
 3. 🎉 Merged PR [#2](https://github.com/PRACTICE-ZONE/restaurant-page/pull/2) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
 4. 💪 Opened PR [#2](https://github.com/PRACTICE-ZONE/restaurant-page/pull/2) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
 5. 🎉 Merged PR [#1](https://github.com/PRACTICE-ZONE/restaurant-page/pull/1) in [PRACTICE-ZONE/restaurant-page](https://github.com/PRACTICE-ZONE/restaurant-page)
