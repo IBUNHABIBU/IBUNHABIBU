@@ -25,7 +25,7 @@
     <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img title="JavaScript" alt="JavaScript" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img title="SQL" alt="SQL" height=40
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
