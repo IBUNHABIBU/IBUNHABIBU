@@ -68,6 +68,13 @@
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
+```text
+JSX          21 hrs 27 mins  █████████████████████▓░░░   86.18 % 
+JavaScript   2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+CSS          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+```
 <!--END_SECTION:waka-->
 
 ​![profile](https://komarev.com/ghpvc/?username=IBUNHABIBU)
