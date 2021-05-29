@@ -65,6 +65,7 @@
 5. 🎉 Merged PR [#5](https://github.com/IBUNHABIBU/react-calculator/pull/5) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
 <!--END_SECTION:activity-->
 
+### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
