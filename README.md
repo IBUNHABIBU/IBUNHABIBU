@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/react-bookstore/pull/1) in [IBUNHABIBU/react-bookstore](https://github.com/IBUNHABIBU/react-bookstore)
-2. 🎉 Merged PR [#6](https://github.com/IBUNHABIBU/react-calculator/pull/6) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
-3. 🎉 Merged PR [#8](https://github.com/IBUNHABIBU/react-calculator/pull/8) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
-4. 💪 Opened PR [#8](https://github.com/IBUNHABIBU/react-calculator/pull/8) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
-5. 💪 Opened PR [#7](https://github.com/IBUNHABIBU/react-calculator/pull/7) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
+1. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/react-bookstore/pull/1) in [IBUNHABIBU/react-bookstore](https://github.com/IBUNHABIBU/react-bookstore)
+2. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/react-bookstore/pull/1) in [IBUNHABIBU/react-bookstore](https://github.com/IBUNHABIBU/react-bookstore)
+3. 🎉 Merged PR [#6](https://github.com/IBUNHABIBU/react-calculator/pull/6) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
+4. 🎉 Merged PR [#8](https://github.com/IBUNHABIBU/react-calculator/pull/8) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
+5. 💪 Opened PR [#8](https://github.com/IBUNHABIBU/react-calculator/pull/8) in [IBUNHABIBU/react-calculator](https://github.com/IBUNHABIBU/react-calculator)
 <!--END_SECTION:activity-->
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
