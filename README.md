@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
-2. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/issues/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
-3. ❌ Closed PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
-4. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
-5. 🎉 Merged PR [#5](https://github.com/IBUNHABIBU/react-bookstore/pull/5) in [IBUNHABIBU/react-bookstore](https://github.com/IBUNHABIBU/react-bookstore)
+1. 🎉 Merged PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
+2. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
+3. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/issues/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
+4. ❌ Closed PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
+5. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
 <!--END_SECTION:activity-->
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
