@@ -58,10 +58,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
-2. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
-3. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/issues/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
-4. ❌ Closed PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
+1. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/car-rent-booking-api/pull/1) in [IBUNHABIBU/car-rent-booking-api](https://github.com/IBUNHABIBU/car-rent-booking-api)
+2. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/final-capstone/pull/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
+3. 🎉 Merged PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
+4. 💪 Opened PR [#2](https://github.com/IBUNHABIBU/catalogue_of_recipes/pull/2) in [IBUNHABIBU/catalogue_of_recipes](https://github.com/IBUNHABIBU/catalogue_of_recipes)
 5. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
 <!--END_SECTION:activity-->
 
