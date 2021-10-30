@@ -58,11 +58,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/final-capstone/issues/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
-2. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/final-capstone/issues/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
-3. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/car-rent-booking-api/pull/1) in [IBUNHABIBU/car-rent-booking-api](https://github.com/IBUNHABIBU/car-rent-booking-api)
-4. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/final-capstone/pull/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
-5. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/catalogue_of_statistic/pull/1) in [IBUNHABIBU/catalogue_of_statistic](https://github.com/IBUNHABIBU/catalogue_of_statistic)
+1. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/car-rent-booking-api/pull/1) in [IBUNHABIBU/car-rent-booking-api](https://github.com/IBUNHABIBU/car-rent-booking-api)
+2. 🎉 Merged PR [#1](https://github.com/IBUNHABIBU/final-capstone/pull/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
+3. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/final-capstone/issues/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
+4. 🗣 Commented on [#1](https://github.com/IBUNHABIBU/final-capstone/issues/1) in [IBUNHABIBU/final-capstone](https://github.com/IBUNHABIBU/final-capstone)
+5. 💪 Opened PR [#1](https://github.com/IBUNHABIBU/car-rent-booking-api/pull/1) in [IBUNHABIBU/car-rent-booking-api](https://github.com/IBUNHABIBU/car-rent-booking-api)
 <!--END_SECTION:activity-->
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
