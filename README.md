@@ -50,7 +50,6 @@
   </span>
 </p>
 
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
