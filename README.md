@@ -28,8 +28,13 @@
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
       <img title="React" alt="React" height=40 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"> 
+    
     <img title="SQL" alt="SQL" height=40
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+      <img title="MySQL" alt="MySQL" height=40
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+      <img title="PostgreSQL" alt="PostgreSQL" height=40
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
