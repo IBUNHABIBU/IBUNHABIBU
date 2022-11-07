@@ -1,7 +1,6 @@
 ### Hi there I'm Salum Habibu👋
 
 ## I'm a remote Full-Stack Software developer and Electrical Engineer
-- 🔭 I’m currently working on React and Redux.
 - 🌱 Available for hire! I’m glad to relocate or work remotely.
 - 👯 I’m looking to collaborate on any Full-Stack Software development project.
 <!--
