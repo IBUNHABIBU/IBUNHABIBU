@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- :computer: This is my [Portfolio](https://salum-habibu-portfolio.netlify.app)
+- :computer: This is my [Portfolio](https://salum-habibu.netlify.app)
 
 
 <div>
